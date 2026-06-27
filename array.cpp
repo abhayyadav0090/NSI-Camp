@@ -21,7 +21,7 @@ int main(){
     cout << "Size of Array is: " << arr.size() << endl;
 
     
-    for (int i = 0; i < 5; i++){
+    for (int i = 0; i < 7; i++){
         cout << "Value at index " << i+1 << " is: " << arr[i] << endl;
     }
 
